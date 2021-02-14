@@ -1,0 +1,2 @@
+# huffmanCoderProject
+ huffmanCoder coding project
